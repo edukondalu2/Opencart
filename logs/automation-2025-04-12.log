@@ -1,0 +1,54 @@
+15:30:06.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\sdet\Opencart\master.xml
+
+15:30:14.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:30:14.565 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:30:15.051 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:30:15.052 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:30:16.415 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:30:16.477 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:35:41.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\sdet\Opencart\crossbrowserTesting.xml
+
+15:35:49.534 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:35:49.666 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:35:50.155 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:35:50.158 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:35:51.599 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:35:51.645 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:36:16.218 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:36:16.341 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:36:16.862 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:36:16.864 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:36:18.158 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:36:18.204 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:37:19.565 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:37:19.818 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:37:20.283 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:37:20.283 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:37:21.487 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:37:21.508 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:38:25.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\sdet\Opencart\crossbrowserTesting.xml
+
+15:38:34.471 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:38:35.121 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:38:35.661 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:38:35.667 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:38:35.983 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:38:36.132 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:38:36.641 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:38:36.641 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:38:37.565 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:38:37.674 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:38:38.363 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:38:38.422 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+15:38:39.816 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** stating TC001_AccountRegistrationTest ******
+15:38:40.117 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount link
+15:38:40.703 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+15:38:40.703 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:38:41.782 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:38:41.800 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****** finished TC001_AccountRegistrationTest ******
+16:23:50.604 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace\sdet\Opencart\master.xml
+
